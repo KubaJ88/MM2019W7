@@ -1,0 +1,566 @@
+﻿Parent;Minutes;week;date;time_start;time_end;duration;listed_title;top_category;listed_location;listed_project_officer;detail_category;notes;id
+Trump;180;1;07.11.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;1
+Trump;30;1;07.11.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;2
+Trump;60;1;07.11.2018;1899-12-30 11:30:00;30.12.1899 12:30:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;3
+Trump;60;1;07.11.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;4
+Trump;210;1;07.11.2018;1899-12-30 13:30:00;30.12.1899 17:00:00;30.12.1899 03:30:00;Executive time;executive_time;Oval office;;executive_time;;5
+Trump;90;1;08.11.2018;1899-12-30 08:00:00;30.12.1899 09:30:00;30.12.1899 01:30:00;Executive time;executive_time;Oval office;;executive_time;;6
+Trump;10;1;08.11.2018;1899-12-30 09:30:00;30.12.1899 09:40:00;30.12.1899 00:10:00;Depart the White House en route to Supreme Court of the United States;travel;;;domestic_travel;;7
+Trump;10;1;08.11.2018;1899-12-30 09:45:00;30.12.1899 09:55:00;30.12.1899 00:10:00;Meet and greet with the supreme court justices;event;Washington, DC;Emmet Flood;meet_greet;;8
+Trump;15;1;08.11.2018;1899-12-30 10:00:00;30.12.1899 10:15:00;30.12.1899 00:15:00;Investiture of the honorable Brett Kavanaugh;event;Washington, DC;Emmet Flood;kavanaugh_investiture;;9
+Trump;10;1;08.11.2018;1899-12-30 10:20:00;30.12.1899 10:30:00;30.12.1899 00:10:00;Depart Supreme Court of the United States en route The White House;travel;;;domestic_travel;;10
+Trump;30;1;08.11.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the secretary of state;meeting;Oval office;Ambassador John Bolton;sec_state_meeting;;11
+Trump;60;1;08.11.2018;1899-12-30 11:30:00;30.12.1899 12:30:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;12
+Trump;60;1;08.11.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;13
+Trump;30;1;08.11.2018;1899-12-30 13:30:00;30.12.1899 14:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;14
+Trump;60;1;08.11.2018;1899-12-30 14:00:00;30.12.1899 15:00:00;30.12.1899 01:00:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;15
+Trump;15;1;08.11.2018;1899-12-30 15:00:00;30.12.1899 15:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;16
+Trump;15;1;08.11.2018;1899-12-30 15:15:00;30.12.1899 15:30:00;30.12.1899 00:15:00;Meeting with presidential personnel;meeting;Oval office;Ambassador John Bolton;personnel_meeting;;17
+Trump;75;1;08.11.2018;1899-12-30 15:30:00;30.12.1899 16:45:00;30.12.1899 01:15:00;Executive time;executive_time;Oval office;;executive_time;;18
+Trump;15;1;08.11.2018;1899-12-30 16:45:00;30.12.1899 17:00:00;30.12.1899 00:15:00;Video recording session;meeting;Oval office;Mercedes Schlapp;video_recording_session;;19
+Trump;10;1;09.11.2018;1899-12-30 09:00:00;30.12.1899 09:10:00;30.12.1899 00:10:00;Depart the White House en route Joint Base Andrews;travel;;;international_travel;;20
+Trump;10;1;09.11.2018;1899-12-30 09:10:00;30.12.1899 09:20:00;30.12.1899 00:10:00;Arrive Joint Base Andrews;travel;;;international_travel;;21
+Trump;390;1;09.11.2018;1899-12-30 09:20:00;30.12.1899 15:50:00;30.12.1899 06:30:00;Depart Washington, DC en route Orly, France;travel;;;international_travel;;22
+Trump;10;1;09.11.2018;1899-12-30 15:50:00;30.12.1899 16:00:00;30.12.1899 00:10:00;Arrive Paris Orly Airport;travel;;;international_travel;;23
+Trump;25;1;09.11.2018;1899-12-30 16:00:00;30.12.1899 16:25:00;30.12.1899 00:25:00;Depart Orly, France en route Paris, France;travel;;;international_travel;;24
+Trump;35;1;09.11.2018;1899-12-30 16:25:00;30.12.1899 17:00:00;30.12.1899 00:35:00;Arrive Ambassador's Residence;travel;;;international_travel;;25
+Trump;180;2;13.11.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;27
+Trump;30;2;13.11.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;oval office;;cos_meeting;;28
+Trump;30;2;13.11.2018;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;29
+Trump;15;2;13.11.2018;1899-12-30 12:00:00;30.12.1899 12:15:00;30.12.1899 00:15:00;Meeting with the press secretary;meeting;Oval office;Sarah Sanders;press_sec_meeting;;30
+Trump;15;2;13.11.2018;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;31
+Trump;60;2;13.11.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;32
+Trump;15;2;13.11.2018;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;33
+Trump;15;2;13.11.2018;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;Diwali ceremonial lighting of the Diya;event;Roosevelt Room;Justin Clark;holiday_ceremony;The First Lady will travel;34
+Trump;15;2;13.11.2018;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;35
+Trump;45;2;13.11.2018;1899-12-30 14:15:00;30.12.1899 15:00:00;30.12.1899 00:45:00;Policy time;meeting;Oval office;Shahira Knight;policy_time;;36
+Trump;15;2;13.11.2018;1899-12-30 15:00:00;30.12.1899 15:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;37
+Trump;45;2;13.11.2018;1899-12-30 15:15:00;30.12.1899 16:00:00;30.12.1899 00:45:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;38
+Trump;60;2;13.11.2018;1899-12-30 16:00:00;30.12.1899 17:00:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;39
+Trump;180;2;14.11.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;40
+Trump;30;2;14.11.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;41
+Trump;30;2;14.11.2018;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;42
+Trump;15;2;14.11.2018;1899-12-30 12:00:00;30.12.1899 12:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;43
+Trump;5;2;14.11.2018;1899-12-30 12:15:00;30.12.1899 12:20:00;30.12.1899 00:05:00;Medal of Honor notification phone call;event;Oval office;White House military office;phone_call;;44
+Trump;10;2;14.11.2018;1899-12-30 12:20:00;30.12.1899 12:30:00;30.12.1899 00:10:00;Executive time;executive_time;Oval office;;executive_time;;45
+Trump;60;2;14.11.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the secretary of state;lunch;Private dining room;William McGinley;sec_state_lunch;;46
+Trump;30;2;14.11.2018;1899-12-30 13:30:00;30.12.1899 14:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;47
+Trump;30;2;14.11.2018;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Policy time;meeting;Oval office;Larry Kudlow;policy_time;;48
+Trump;60;2;14.11.2018;1899-12-30 14:30:00;30.12.1899 15:30:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;49
+Trump;15;2;14.11.2018;1899-12-30 15:30:00;30.12.1899 15:45:00;30.12.1899 00:15:00;Meeting with stakeholders on the first step act;meeting;Roosevelt Room;Jared Kushner;stakeholders_meeting;;50
+Trump;105;2;14.11.2018;1899-12-30 15:45:00;30.12.1899 17:30:00;30.12.1899 01:45:00;Executive time;executive_time;Oval office;;executive_time;;51
+Trump;15;2;14.11.2018;1899-12-30 17:30:00;30.12.1899 17:45:00;30.12.1899 00:15:00;Photo opportunitiy with the fall 2018 White House internship program class;event;East Room;Office of Presidential Scheduling;photo_opportunity;;52
+Trump;220;2;15.11.2018;1899-12-30 08:00:00;30.12.1899 11:40:00;30.12.1899 03:40:00;Executive time;executive_time;Oval office;;executive_time;;53
+Trump;15;2;15.11.2018;1899-12-30 11:40:00;30.12.1899 11:55:00;30.12.1899 00:15:00;Depart the White House en route Marine Barracks Washington, DC;travel;;;domestic_travel;;54
+Trump;5;2;15.11.2018;1899-12-30 11:55:00;30.12.1899 12:00:00;30.12.1899 00:05:00;Arrive Marine Barracks Washington, DC;travel;;;domestic_travel;;55
+Trump;60;2;15.11.2018;1899-12-30 12:00:00;30.12.1899 13:00:00;30.12.1899 01:00:00;Visit to Marine Barracks Washington, DC;travel;Washington, DC;Lindsay Reynolds;marine_barracks_visit;;56
+Trump;15;2;15.11.2018;1899-12-30 13:05:00;30.12.1899 13:20:00;30.12.1899 00:15:00;Depart Marine Barracks Washington, DC en route the White House;travel;;;domestic_travel;;57
+Trump;5;2;15.11.2018;1899-12-30 13:20:00;30.12.1899 13:25:00;30.12.1899 00:05:00;Arrive at the White House;travel;;;domestic_travel;;58
+Trump;5;2;15.11.2018;1899-12-30 13:25:00;30.12.1899 13:30:00;30.12.1899 00:05:00;Executive time;executive_time;Oval Office;;executive_time;;59
+Trump;15;2;15.11.2018;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Remarks on supporting veterans and military families;event;EEOB - South Court Auditorium;Douglas Hoelscher;veterans_remarks;;60
+Trump;60;2;15.11.2018;1899-12-30 13:45:00;30.12.1899 14:45:00;30.12.1899 01:00:00;Executive time;executive_time;Oval Office;;executive_time;;61
+Trump;60;2;15.11.2018;1899-12-30 14:45:00;30.12.1899 15:45:00;30.12.1899 01:00:00;Meeting with Senate Republican Leadership;meeting;Oval Office;Shahira Knight;senate_gop_meeting;;62
+Trump;15;2;15.11.2018;1899-12-30 15:45:00;30.12.1899 16:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval Office;;executive_time;;63
+Trump;30;2;15.11.2018;1899-12-30 16:00:00;30.12.1899 16:30:00;30.12.1899 00:30:00;Meeting with presidential personnel;meeting;Oval Office;John DeStefano;personnel_meeting;;64
+Trump;30;2;15.11.2018;1899-12-30 16:30:00;30.12.1899 17:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval Office;;executive_time;;65
+Trump;180;3;19.11.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval Office;;executive_time;;67
+Trump;30;3;19.11.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval Office;;cos_meeting;The first lady will travel;68
+Trump;90;3;19.11.2018;1899-12-30 11:30:00;30.12.1899 13:00:00;30.12.1899 01:30:00;Executive time;executive_time;Oval Office;;executive_time;;69
+Trump;15;3;19.11.2018;1899-12-30 13:00:00;30.12.1899 13:15:00;30.12.1899 00:15:00;White House Christmas tree delivery;event;North Portico;Lindsay Reynolds;christmas_tree_delivery;;70
+Trump;60;3;19.11.2018;1899-12-30 13:30:00;30.12.1899 14:30:00;30.12.1899 01:00:00;Lunch with vice president;lunch;Private dining room;Nick Ayers;VP_lunch;;71
+Trump;15;3;19.11.2018;1899-12-30 14:30:00;30.12.1899 14:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval Office;;executive_time;;72
+Trump;45;3;19.11.2018;1899-12-30 14:45:00;30.12.1899 15:30:00;30.12.1899 00:45:00;Policy time;meeting;Oval Office;Director Mick Mulvaney;policy_time;;73
+Trump;45;3;19.11.2018;1899-12-30 15:45:00;30.12.1899 16:30:00;30.12.1899 00:45:00;Policy time;meeting;Oval Office;Larry Kudlow;policy_time;;74
+Trump;30;3;19.11.2018;1899-12-30 16:30:00;30.12.1899 17:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval Office;;executive_time;;75
+Trump;540;3;23.11.2018;1899-12-30 08:00:00;30.12.1899 17:00:00;30.12.1899 09:00:00;Executive time;executive_time;Mar-a-Lago;;executive_time;;79
+Trump;180;4;26.11.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval Office;;executive_time;;80
+Trump;30;4;26.11.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval Office;;cos_meeting;;81
+Trump;30;4;26.11.2018;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval Office;Ambassador John Bolton;intel_briefing;;82
+Trump;15;4;26.11.2018;1899-12-30 12:00:00;30.12.1899 12:15:00;30.12.1899 00:15:00;Meeting with the press secretary;meeting;Oval Office;Sarah Sanders;press_sec_meeting;;83
+Trump;15;4;26.11.2018;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval Office;;executive_time;;84
+Trump;60;4;26.11.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the vice president;lunch;Private dining room;Nick Ayers;VP_lunch;;85
+Trump;65;4;26.11.2018;1899-12-30 13:30:00;30.12.1899 14:35:00;30.12.1899 01:05:00;Executive time;executive_time;Oval Office;;executive_time;;86
+Trump;10;4;26.11.2018;1899-12-30 14:35:00;30.12.1899 14:45:00;30.12.1899 00:10:00;Depart the White House en route Joint Base Andrews;travel;;;domestic_travel;The First Lady will participate;87
+Trump;10;4;26.11.2018;1899-12-30 14:45:00;30.12.1899 14:55:00;30.12.1899 00:10:00;Arrive Joint Base Andrews;travel;;;domestic_travel;;88
+Trump;130;4;26.11.2018;1899-12-30 14:55:00;30.12.1899 17:05:00;30.12.1899 02:10:00;Depart Washington, DC en route Tupelo, MS;travel;;;domestic_travel;;89
+Trump;10;4;26.11.2018;1899-12-30 17:05:00;30.12.1899 17:15:00;30.12.1899 00:10:00;Arrive Tupelo Regional Airport;travel;;;domestic_travel;;90
+Trump;60;4;26.11.2018;1899-12-30 17:15:00;30.12.1899 18:15:00;30.12.1899 01:00:00;Remarks at Make America Great Again rally;event;Tupelo, MS;Bill Stepien;MAGA_rally;;91
+Trump;5;4;26.11.2018;1899-12-30 18:20:00;30.12.1899 18:25:00;30.12.1899 00:05:00;Hold for media interview;event;Tupelo, MS;Sarah Sanders;media_interview;;92
+Trump;5;4;26.11.2018;1899-12-30 18:25:00;30.12.1899 18:30:00;30.12.1899 00:05:00;Photo opportunity with law enforcement;event;Tupelo, MS;Bobby Peede;photo_opportunity;;93
+Trump;60;4;26.11.2018;1899-12-30 18:40:00;30.12.1899 19:40:00;30.12.1899 01:00:00;Depart Tupelo, MS en route Gulfport, MS;travel;;;domestic_travel;;94
+Trump;10;4;26.11.2018;1899-12-30 19:40:00;30.12.1899 19:50:00;30.12.1899 00:10:00;Arrive Gulfport - Biloxi International Airport;travel;;;;;95
+Trump;35;4;26.11.2018;1899-12-30 19:50:00;30.12.1899 20:25:00;30.12.1899 00:35:00;First Step Act roundtable with governor phil bryant and law enforcement leaders;event;Gulfport, MS;Jared Kushner;crim_justice_roundtable;;96
+Trump;15;4;26.11.2018;1899-12-30 20:25:00;30.12.1899 20:40:00;30.12.1899 00:15:00;Depart Gulfport, MS en route Biloxi, MS;travel;;;domestic_travel;;97
+Trump;5;4;26.11.2018;1899-12-30 20:40:00;30.12.1899 20:45:00;30.12.1899 00:05:00;Arrive Mississippi Coast Coliseum;travel;;;;;98
+Trump;5;4;26.11.2018;1899-12-30 20:45:00;30.12.1899 20:50:00;30.12.1899 00:05:00;Hold for media interview;event;Biloxi, MS;Sarah Sanders;media_interview;;99
+Trump;5;4;26.11.2018;1899-12-30 20:50:00;30.12.1899 20:55:00;30.12.1899 00:05:00;Photo opportunity with law enforcement;event;Biloxi, MS;Bobby Peede;photo_opportunity;;100
+Trump;60;4;26.11.2018;1899-12-30 21:00:00;30.12.1899 22:00:00;30.12.1899 01:00:00;Remarks at Make America Great Again rally;event;Biloxi, MS;Bill Stepien;MAGA_rally;;101
+Trump;15;4;26.11.2018;1899-12-30 22:05:00;30.12.1899 22:20:00;30.12.1899 00:15:00;Depart Biloxi, MS en route Gulforpot, MS;travel;;;domestic_travel;Air Force One is a C-32;102
+Trump;10;4;26.11.2018;1899-12-30 22:20:00;30.12.1899 22:30:00;30.12.1899 00:10:00;Arrive Gulfport - Biloxi International Airport;travel;;;;;103
+Trump;740;4;26.11.2018;1899-12-30 22:30:00;30.12.1899 00:40:00;26.12.1899 12:20:53;Depart Gulfport, MS en route Washington, DC;travel;;;domestic_travel;;104
+Trump;180;4;27.11.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval Office;;executive_time;;105
+Trump;30;4;27.11.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Media engagement;event;Oval Office;Sarah Sanders;media_engagement;;106
+Trump;75;4;27.11.2018;1899-12-30 11:30:00;30.12.1899 12:45:00;30.12.1899 01:15:00;Executive time;executive_time;Oval Office;;executive_time;;107
+Trump;60;4;27.11.2018;1899-12-30 12:45:00;30.12.1899 13:45:00;30.12.1899 01:00:00;Lunch with secretray of state and secretary of defense;meeting;Private dining room;William McGinley;sec_state_def_lunch;;108
+Trump;45;4;27.11.2018;1899-12-30 13:45:00;30.12.1899 14:30:00;30.12.1899 00:45:00;Executive time;executive_time;Oval Office;;executive_time;;109
+Trump;45;4;27.11.2018;1899-12-30 14:30:00;30.12.1899 15:15:00;30.12.1899 00:45:00;Meeting with House Republican Leadership;meeting;Oval Office;Shahira Knight;house_gop_meeting;;110
+Trump;30;4;27.11.2018;1899-12-30 15:15:00;30.12.1899 15:45:00;30.12.1899 00:30:00;Executive time;executive_time;Oval Office;;executive_time;;111
+Trump;15;4;27.11.2018;1899-12-30 15:45:00;30.12.1899 16:00:00;30.12.1899 00:15:00;Remarks at Christmas reception;event;Grand Foyer;Lindsay Reynolds;christmas_reception_remarks;;112
+Trump;60;4;27.11.2018;1899-12-30 16:00:00;30.12.1899 17:00:00;30.12.1899 01:00:00;Executive time;executive_time;Oval Office;;executive_time;;113
+Trump;30;4;27.11.2018;1899-12-30 17:00:00;30.12.1899 17:30:00;30.12.1899 00:30:00;Media engagement;event;Oval Office;Sarah Sanders;media_engagement;;114
+Trump;120;4;27.11.2018;1899-12-30 17:30:00;30.12.1899 19:30:00;30.12.1899 02:00:00;Executive time;executive_time;Oval Office;;executive_time;;115
+Trump;75;4;27.11.2018;1899-12-30 19:30:00;30.12.1899 20:45:00;30.12.1899 01:15:00;Photos at United States secret service christmas reception;event;Diplomatic reception room;Lindsay Reynolds;Photo_opportunity;;116
+Trump;120;4;28.11.2018;1899-12-30 08:00:00;30.12.1899 10:00:00;30.12.1899 02:00:00;Executive time;executive_time;Oval Office;;executive_time;;117
+Trump;30;4;28.11.2018;1899-12-30 10:00:00;30.12.1899 10:30:00;30.12.1899 00:30:00;Meeting with chief of staff;meeting;Oval Office;;cos_meeting;;118
+Trump;15;4;28.11.2018;1899-12-30 10:30:00;30.12.1899 10:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval Office;;executive_time;;119
+Trump;30;4;28.11.2018;1899-12-30 10:45:00;30.12.1899 11:15:00;30.12.1899 00:30:00;Media engagement;event;Oval Office;Sarah Sanders;media_engagement;;120
+Trump;60;4;28.11.2018;1899-12-30 11:15:00;30.12.1899 12:15:00;30.12.1899 01:00:00;Executive time;executive_time;Oval Office;;executive_time;;121
+Trump;15;4;28.11.2018;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;White House military office departure photos;event;Oval Office;White House military office;photo_opportunity;;122
+Trump;15;4;28.11.2018;1899-12-30 12:30:00;30.12.1899 12:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval Office;;executive_time;;123
+Trump;60;4;28.11.2018;1899-12-30 12:45:00;30.12.1899 13:45:00;30.12.1899 01:00:00;Lunch with the governor of new york state;lunch;Private dining room;Madeleine Westerhout;ny_gov_lunch;;124
+Trump;15;4;28.11.2018;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;Executive time;executive_time;oval Office;;executive_time;First Lady will participate;125
+Trump;30;4;28.11.2018;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Meeting with presidential personnel;meeting;Oval Office;John DeStefano;personnel_meeting;;126
+Trump;15;4;28.11.2018;1899-12-30 14:30:00;30.12.1899 14:45:00;30.12.1899 00:15:00;Policy time;meeting;Oval Office;Kellyanne Conway;policy_time;;127
+Trump;30;4;28.11.2018;1899-12-30 14:45:00;30.12.1899 15:15:00;30.12.1899 00:30:00;Policy time;meeting;Oval Office;Christopher Liddell;policy_time;;128
+Trump;80;4;28.11.2018;1899-12-30 15:15:00;30.12.1899 16:35:00;30.12.1899 01:20:00;Executive time;executive_time;Oval Office;;executive_time;First Lady will participate;129
+Trump;5;4;28.11.2018;1899-12-30 16:35:00;30.12.1899 16:40:00;30.12.1899 00:05:00;Depart White House en route The Ellipse;travel;;;domestic_travel;;130
+Trump;10;4;28.11.2018;1899-12-30 16:45:00;30.12.1899 16:55:00;30.12.1899 00:10:00;Photo opportunity with national christmas tree lighting ceremony participants;event;The Ellipse;Lindsay Reynolds;photo_opportunity;;131
+Trump;60;4;28.11.2018;1899-12-30 17:00:00;30.12.1899 18:00:00;30.12.1899 01:00:00;National Christmas tree lighting ceremony;event;The Ellipse;Lindsay Reynolds;christmas_celebration;;132
+Trump;5;4;28.11.2018;1899-12-30 18:05:00;30.12.1899 18:10:00;30.12.1899 00:05:00;Depart The Ellipse en route the White House;travel;;;domestic_travel;;133
+Trump;120;4;29.11.2018;1899-12-30 08:00:00;30.12.1899 10:00:00;30.12.1899 02:00:00;Executive time;executive_time;The White House;;executive_time;;134
+Trump;10;4;29.11.2018;1899-12-30 10:00:00;30.12.1899 10:10:00;30.12.1899 00:10:00;Depart the White House en route Joint Base Andrews;travel;;;domestic_travel;;135
+Trump;575;4;29.11.2018;1899-12-30 10:20:00;30.12.1899 19:55:00;30.12.1899 09:35:00;Depart Washington, DC en route Buenos Aires, Argentina;travel;;;international_travel;;136
+Trump;5;4;30.11.2018;1899-12-30 04:50:00;30.12.1899 04:55:00;30.12.1899 00:05:00;Depart RON Location en route Casa Rosada;travel;;;international_travel;;137
+Trump;5;4;30.11.2018;1899-12-30 05:05:00;30.12.1899 05:10:00;30.12.1899 00:05:00;Photo opportunity with the president of the Argentine Republic;event;Buenos Aires, Argentina;Ambassador John Bolton;photo_opportunity;;138
+Trump;45;4;30.11.2018;1899-12-30 05:15:00;30.12.1899 06:00:00;30.12.1899 00:45:00;Expanded bilateral meeting with the President of the Argentine Republic;meeting;Buenos Aires, Argentina;Ambassador John Bolton;bilateral_meeting;;139
+Trump;5;4;30.11.2018;1899-12-30 06:05:00;30.12.1899 06:10:00;30.12.1899 00:05:00;Depart Casa Rosada en route Park Hyatt Palace;travel;;;international_travel;;140
+Trump;10;4;30.11.2018;1899-12-30 06:15:00;30.12.1899 06:25:00;30.12.1899 00:10:00;Executive time;executive_time;Buenos Aires, Argentina;;executive_time;;141
+Trump;30;4;30.11.2018;1899-12-30 06:25:00;30.12.1899 06:55:00;30.12.1899 00:30:00;Speech prep;meeting;Buenos Aires, Argentina;Ambassador John Bolton;speech_prep;;142
+Trump;30;4;30.11.2018;1899-12-30 07:00:00;30.12.1899 07:30:00;30.12.1899 00:30:00;USMCA signing ceremony;event;Buenos Aires, Argentina;Ambassador John Bolton;usmca_signing_ceremony;;143
+Trump;130;4;30.11.2018;1899-12-30 07:35:00;30.12.1899 09:45:00;30.12.1899 02:10:00;Executive time;executive_time;Buenos Aires, Argentina;;executive_time;;144
+Trump;15;4;30.11.2018;1899-12-30 09:45:00;30.12.1899 10:00:00;30.12.1899 00:15:00;Depart Park Hyatt Palace en route Centro Costa Salguero;travel;;;international_travel;;145
+Trump;20;4;30.11.2018;1899-12-30 10:05:00;30.12.1899 10:25:00;30.12.1899 00:20:00;Official welcome and family photo;event;Buenos Aires, Argentina;Ambassador John Bolton;photo_opportunity;;146
+Trump;15;4;30.11.2018;1899-12-30 10:30:00;30.12.1899 10:45:00;30.12.1899 00:15:00;Opening remarks by the president of the Argentine Republic;event;Buenos Aires, Argentina;Ambassador John Bolton;opening_remarks;;147
+Trump;55;4;30.11.2018;1899-12-30 10:45:00;30.12.1899 11:40:00;30.12.1899 00:55:00;"G20 session I/working luncheon: ""Putting people first""";event;Buenos Aires, Argentina;Ambassador John Bolton;g20_session;;148
+Trump;30;4;30.11.2018;1899-12-30 11:45:00;30.12.1899 12:15:00;30.12.1899 00:30:00;Bilateral meeting with the prime minister of Japan;event;Buenos Aires, Argentina;Ambassador John Bolton;bilateral_meeting;;149
+Trump;10;4;30.11.2018;1899-12-30 12:20:00;30.12.1899 12:30:00;30.12.1899 00:10:00;Executive time;executive_time;Buenos Aires, Argentina;;executive_time;;150
+Trump;15;4;30.11.2018;1899-12-30 12:30:00;30.12.1899 12:45:00;30.12.1899 00:15:00;Trilateral meeting with the prime minister of Japan and the prime minister of the Republic of India;event;Buenos Aires, Argentina;Ambassador John Bolton;trilateral_meeting;;151
+Trump;15;4;30.11.2018;1899-12-30 12:55:00;30.12.1899 13:10:00;30.12.1899 00:15:00;Bilateral pull-aside with the prime minister of the commonwealth of Australia;event;Buenos Aires, Argentina;Ambassador John Bolton;bilateral_meeting;;152
+Trump;15;4;30.11.2018;1899-12-30 13:15:00;30.12.1899 13:30:00;30.12.1899 00:15:00;Depart Centro Costa Salguero en route Park Hyatt Palace;travel;;;international_travel;;153
+Trump;35;4;30.11.2018;1899-12-30 13:35:00;30.12.1899 14:10:00;30.12.1899 00:35:00;Executive time;executive_time;Buenos Aires, Argentina;;executive_time;;154
+Trump;20;4;30.11.2018;1899-12-30 14:10:00;30.12.1899 14:30:00;30.12.1899 00:20:00;Embassy meet and greet;event;Buenos Aires, Argentina;Ambassador John Bolton;embassy_meet_greet;;155
+Trump;10;4;30.11.2018;1899-12-30 14:35:00;30.12.1899 14:45:00;30.12.1899 00:10:00;Media interview prep;event;Buenos Aires, Argentina;Sarah Sanders;media_interview_prep;;156
+Trump;10;4;30.11.2018;1899-12-30 14:50:00;30.12.1899 15:00:00;30.12.1899 00:10:00;Interview with Greta Van Susteren, VOA;event;Buenos Aires, Argentina;Sarah Sanders;media_interview;;157
+Trump;115;4;30.11.2018;1899-12-30 15:05:00;30.12.1899 17:00:00;30.12.1899 01:55:00;Executive time;executive_time;Buenos Aires, Argentina;;executive_time;;158
+Trump;5;4;30.11.2018;1899-12-30 17:00:00;30.12.1899 17:05:00;30.12.1899 00:05:00;Depart Park Hyatt Palace en route Teatro Colón;travel;;;international_travel;;159
+Trump;15;4;30.11.2018;1899-12-30 17:10:00;30.12.1899 17:25:00;30.12.1899 00:15:00;G20 Family photo;event;Buenos Aires, Argentina;Ambassador John Bolton;photo_opportunity;;160
+Trump;30;4;30.11.2018;1899-12-30 17:30:00;30.12.1899 18:00:00;30.12.1899 00:30:00;G20 Cultural performance;event;Buenos Aires, Argentina;Ambassador John Bolton;g20_cultural_performance;;161
+Trump;105;4;30.11.2018;1899-12-30 18:15:00;30.12.1899 20:00:00;30.12.1899 01:45:00;G20 Leaders' dinner;event;Buenos Aires, Argentina;Ambassador John Bolton;g20_dinner;;162
+Trump;5;4;30.11.2018;1899-12-30 20:05:00;30.12.1899 20:10:00;30.12.1899 00:05:00;Depart Teatro Colón en route RON Location;travel;;;international_travel;;163
+Trump;180;5;03.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;164
+Trump;30;5;03.12.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;165
+Trump;30;5;03.12.2018;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;166
+Trump;30;5;03.12.2018;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;167
+Trump;60;5;03.12.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;168
+Trump;15;5;03.12.2018;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;169
+Trump;30;5;03.12.2018;1899-12-30 13:45:00;30.12.1899 14:15:00;30.12.1899 00:30:00;Meeting with the secretary of housing and urban development;meeting;Oval office;William McGinley;hud_sec_meeting;;170
+Trump;30;5;03.12.2018;1899-12-30 14:15:00;30.12.1899 14:45:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;171
+Trump;15;5;03.12.2018;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Meeting with the press secretary;meeting;Oval office;Sarah Sanders;press_sec_meeting;;172
+Trump;30;5;03.12.2018;1899-12-30 15:00:00;30.12.1899 15:30:00;30.12.1899 00:30:00;Media interview;event;Oval office;Sarah Sanders;media_interview;;173
+Trump;30;5;03.12.2018;1899-12-30 15:30:00;30.12.1899 16:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;174
+Trump;45;5;03.12.2018;1899-12-30 16:00:00;30.12.1899 16:45:00;30.12.1899 00:45:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;175
+Trump;15;5;03.12.2018;1899-12-30 16:45:00;30.12.1899 17:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;176
+Trump;180;5;04.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;177
+Trump;30;5;04.12.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;178
+Trump;30;5;04.12.2018;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Policy time;meeting;Oval office;Nick Ayers;policy_time;;179
+Trump;15;5;04.12.2018;1899-12-30 12:00:00;30.12.1899 12:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;180
+Trump;60;5;04.12.2018;1899-12-30 12:15:00;30.12.1899 13:15:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;181
+Trump;45;5;04.12.2018;1899-12-30 13:15:00;30.12.1899 14:00:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;182
+Trump;30;5;04.12.2018;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Policy time;meeting;Oval office;Director Mick Mulvaney;policy_time;First Lady will travel;183
+Trump;60;5;04.12.2018;1899-12-30 14:30:00;30.12.1899 15:30:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;184
+Trump;15;5;04.12.2018;1899-12-30 15:30:00;30.12.1899 15:45:00;30.12.1899 00:15:00;Signing of S.140, The Frank Lobiondo Coast Guard authorization act of 2018;event;Oval office;Shahira Knight, Derek Lyons;bill_signing;;185
+Trump;75;5;04.12.2018;1899-12-30 15:45:00;30.12.1899 17:00:00;30.12.1899 01:15:00;Executive time;executive_time;Oval office;;executive_time;;186
+Trump;135;5;05.12.2018;1899-12-30 08:00:00;30.12.1899 10:15:00;30.12.1899 02:15:00;Executive time;executive_time;Oval office;;executive_time;;187
+Trump;15;5;05.12.2018;1899-12-30 10:15:00;30.12.1899 10:30:00;30.12.1899 00:15:00;Depart the White House en route Washington National Cathedral;travel;;;domestic_travel;First Lady will travel;188
+Trump;90;5;05.12.2018;1899-12-30 11:00:00;30.12.1899 12:30:00;30.12.1899 01:30:00;State funeral service of president George H.W. Bush;event;Washington, DC;Lindsay Reynolds;funeral;;189
+Trump;15;5;05.12.2018;1899-12-30 12:35:00;30.12.1899 12:50:00;30.12.1899 00:15:00;Depart Washington National Cathedral en route The White House;travel;;;domestic_travel;;190
+Trump;295;5;05.12.2018;1899-12-30 12:55:00;30.12.1899 17:50:00;30.12.1899 04:55:00;Executive time;executive_time;Oval office;;executive_time;;191
+Trump;180;5;06.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;192
+Trump;30;5;06.12.2018;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;193
+Trump;30;5;06.12.2018;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;194
+Trump;60;5;06.12.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the Secreatry of Education;lunch;Private dining room;William McGinley;sec_ed_lunch;;195
+Trump;15;5;06.12.2018;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Meeting with presidential personnel;meeting;Oval office;John DeStefano;personnel_meeting;;196
+Trump;15;5;06.12.2018;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;197
+Trump;45;5;06.12.2018;1899-12-30 14:00:00;30.12.1899 14:45:00;30.12.1899 00:45:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;198
+Trump;15;5;06.12.2018;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;199
+Trump;30;5;06.12.2018;1899-12-30 15:00:00;30.12.1899 15:30:00;30.12.1899 00:30:00;Meeting with the secretary of state;meeting;Oval office;William McGinley;sec_state_meeting;;200
+Trump;30;5;06.12.2018;1899-12-30 15:30:00;30.12.1899 16:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;201
+Trump;30;5;06.12.2018;1899-12-30 16:00:00;30.12.1899 16:30:00;30.12.1899 00:30:00;Remarks at Hanukkah reception;event;East Room;Lindsay Reynolds;hanukkah_remarks;;202
+Trump;210;5;06.12.2018;1899-12-30 16:30:00;30.12.1899 20:00:00;30.12.1899 03:30:00;Executive time;executive_time;Oval office;;executive_time;;203
+Trump;30;5;06.12.2018;1899-12-30 20:00:00;30.12.1899 20:30:00;30.12.1899 00:30:00;Remarks at Hanukkah reception;event;East Room;Lindsay Reynolds;hanukkah_remarks;;204
+Trump;60;5;07.12.2018;1899-12-30 08:00:00;30.12.1899 09:00:00;30.12.1899 01:00:00;Executive time;executive_time;;;executive_time;;205
+Trump;10;5;07.12.2018;1899-12-30 09:00:00;30.12.1899 09:10:00;30.12.1899 00:10:00;Depart the white house en route joint Base Andrews;travel;;;domestic_travel;;206
+Trump;155;5;07.12.2018;1899-12-30 09:20:00;30.12.1899 11:55:00;30.12.1899 02:35:00;Depart Washington, DC en route Kansas City, MO;travel;;;domestic_travel;;207
+Trump;25;5;07.12.2018;1899-12-30 12:05:00;30.12.1899 12:30:00;30.12.1899 00:25:00;Depart Kansas City International Airport en route the Westin Kansas City at Crown center;travel;;;domestic_travel;;208
+Trump;10;5;07.12.2018;1899-12-30 12:35:00;30.12.1899 12:45:00;30.12.1899 00:10:00;Photo opportunity with award recipients and law enforcement;event;Kansas City, MO;William McGinley;photo_opportunity;;209
+Trump;45;5;07.12.2018;1899-12-30 12:50:00;30.12.1899 13:35:00;30.12.1899 00:45:00;Remarks at the 2018 project safe neighborhoods national conference;event;Kansas City, MO;William McGinley;public_remarks;;210
+Trump;25;5;07.12.2018;1899-12-30 13:40:00;30.12.1899 14:05:00;30.12.1899 00:25:00;Depart the Westin Kansas City Crown Center en route Kansas City international airport;travel;;;domestic_travel;;211
+Trump;125;5;07.12.2018;1899-12-30 14:15:00;30.12.1899 16:20:00;30.12.1899 02:05:00;Depart Kansas City, MO en route Washington, DC;travel;;;domestic_travel;;212
+Trump;10;5;07.12.2018;1899-12-30 16:30:00;30.12.1899 16:40:00;30.12.1899 00:10:00;Depart Joint Base Andrews en route the white house;travel;;;domestic_travel;;213
+Trump;165;5;07.12.2018;1899-12-30 16:45:00;30.12.1899 19:30:00;30.12.1899 02:45:00;Executive time;executive_time;The White House;;executive_time;;214
+Trump;90;5;07.12.2018;1899-12-30 19:30:00;30.12.1899 21:00:00;30.12.1899 01:30:00;Senior staff dinner;event;East Room;Lindsay Reynolds;senior_staff_dinner;First Lady will participate;215
+Trump;180;6;10.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;216
+Trump;60;6;10.12.2018;1899-12-30 11:00:00;30.12.1899 12:00:00;30.12.1899 01:00:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;First Lady will participate;217
+Trump;30;6;10.12.2018;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;218
+Trump;60;6;10.12.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the vice president;lunch;Prinvate dining room;Nick Ayers;vp_lunch;;219
+Trump;15;6;10.12.2018;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;220
+Trump;45;6;10.12.2018;1899-12-30 13:45:00;30.12.1899 14:30:00;30.12.1899 00:45:00;Policy time;meeting;Oval office;Andrew Bremberg;policy_time;;221
+Trump;60;6;10.12.2018;1899-12-30 14:30:00;30.12.1899 15:30:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;222
+Trump;30;6;10.12.2018;1899-12-30 15:30:00;30.12.1899 16:00:00;30.12.1899 00:30:00;Meeting with legislative affairs;meeting;Oval office;Shahira Knight;leg_affairs_meeting;;223
+Trump;15;6;10.12.2018;1899-12-30 16:00:00;30.12.1899 16:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;224
+Trump;45;6;10.12.2018;1899-12-30 16:15:00;30.12.1899 17:00:00;30.12.1899 00:45:00;Pre-brief followed by media engagement;event;Oval office;Sarah Sanders;media_engagement;;225
+Trump;180;6;11.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;226
+Trump;30;6;11.12.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Legislative pre-brief;meeting;Oval office;Shahira Knight;leg_pre_brief;;227
+Trump;45;6;11.12.2018;1899-12-30 11:30:00;30.12.1899 12:15:00;30.12.1899 00:45:00;Meeting with the senate minority leader and the house speaker-designate;meeting;Oval office;Shahira Knight;dem_leadership_meeting;;228
+Trump;15;6;11.12.2018;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;229
+Trump;60;6;11.12.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;230
+Trump;75;6;11.12.2018;1899-12-30 13:30:00;30.12.1899 14:45:00;30.12.1899 01:15:00;Executive time;executive_time;Oval office;;executive_time;;231
+Trump;45;6;11.12.2018;1899-12-30 14:45:00;30.12.1899 15:30:00;30.12.1899 00:45:00;Photos and remarks at christmas reception;event;Diplomatic reception room/grand foyer;Lindsay Reynolds;christmas_remarks;;232
+Trump;15;6;11.12.2018;1899-12-30 15:30:00;30.12.1899 15:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;233
+Trump;15;6;11.12.2018;1899-12-30 15:45:00;30.12.1899 16:00:00;30.12.1899 00:15:00;Signing ceremony for H.R. 390 -Iraq and Syria genocide relief and accountability act of 2018;event;Oval office;Tim Pataki;bill_signing;;234
+Trump;15;6;11.12.2018;1899-12-30 16:00:00;30.12.1899 16:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;235
+Trump;30;6;11.12.2018;1899-12-30 16:15:00;30.12.1899 16:45:00;30.12.1899 00:30:00;Media engagement;event;Oval office;Sarah Sanders;media_engagement;;236
+Trump;165;6;11.12.2018;1899-12-30 16:45:00;30.12.1899 19:30:00;30.12.1899 02:45:00;Executive time;executive_time;Oval office;;executive_time;;237
+Trump;15;6;11.12.2018;1899-12-30 19:30:00;30.12.1899 19:45:00;30.12.1899 00:15:00;Remarks at staff reception;event;Grand foyer;lindsay reynolds;staff_reception_remarks;;238
+Trump;240;6;12.12.2018;1899-12-30 08:00:00;30.12.1899 12:00:00;30.12.1899 04:00:00;Executive time;executive_time;Oval office;;executive_time;;239
+Trump;30;6;12.12.2018;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;meeting with the chief of staff;meeting;oval office;;cos_meeting;;240
+Trump;60;6;12.12.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;lunch;lunch;private dining room;;solo_lunch;;241
+Trump;30;6;12.12.2018;1899-12-30 13:30:00;30.12.1899 14:00:00;30.12.1899 00:30:00;Meeting with presidential personnel;meeting;oval office;John DeStefano;personnel_meeting;;242
+Trump;30;6;12.12.2018;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Executive time;executive_time;oval office;;executive_time;;243
+Trump;15;6;12.12.2018;1899-12-30 14:30:00;30.12.1899 14:45:00;30.12.1899 00:15:00;Signing of an executive order establishing the white house opportunity and revitalization council;event;Roosevelt room;Tim Pataki, Derek Lyons;exec_order_signing;;244
+Trump;30;6;12.12.2018;1899-12-30 14:45:00;30.12.1899 15:15:00;30.12.1899 00:30:00;Executive time;executive_time;oval office;;executive_time;;245
+Trump;30;6;12.12.2018;1899-12-30 15:15:00;30.12.1899 15:45:00;30.12.1899 00:30:00;Media engagement;event;Diplomatic reception room;sarah sanders;media_engagement;;246
+Trump;15;6;12.12.2018;1899-12-30 15:45:00;30.12.1899 16:00:00;30.12.1899 00:15:00;Executive time;executive_time;oval office;;executive_time;;247
+Trump;15;6;12.12.2018;1899-12-30 16:00:00;30.12.1899 16:15:00;30.12.1899 00:15:00;Video recording session;meeting;Oval office;Mercedes Schlapp;video_recording_session;;248
+Trump;45;6;12.12.2018;1899-12-30 16:15:00;30.12.1899 17:00:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;249
+Trump;180;6;13.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;250
+Trump;30;6;13.12.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Media engagement;meeting;Roosevelt room;Sarah Sanders;media_engagement;;251
+Trump;15;6;13.12.2018;1899-12-30 11:30:00;30.12.1899 11:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;252
+Trump;45;6;13.12.2018;1899-12-30 11:45:00;30.12.1899 12:30:00;30.12.1899 00:45:00;Meeting with the secretary of state;meeting;Oval office;William McGinley;sec_state_meeting;;253
+Trump;15;6;13.12.2018;1899-12-30 12:30:00;30.12.1899 12:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;254
+Trump;60;6;13.12.2018;1899-12-30 12:45:00;30.12.1899 13:45:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;255
+Trump;15;6;13.12.2018;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;Executive time;executive_time;oval office;;executive_time;;256
+Trump;30;6;13.12.2018;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Discussion with governors-elect;meeting;Cabinet room;John DeStefano;new_gov_meeting;;257
+Trump;165;6;13.12.2018;1899-12-30 14:30:00;30.12.1899 17:15:00;30.12.1899 02:45:00;Executive time;executive_time;Oval office;;executive_time;;258
+Trump;15;6;13.12.2018;1899-12-30 17:15:00;30.12.1899 17:30:00;30.12.1899 00:15:00;Remarks at christmas reception;event;Grand foyer;Lindsay Reynolds;christmas_remarks;;259
+Trump;180;6;13.12.2018;1899-12-30 17:30:00;30.12.1899 20:30:00;30.12.1899 03:00:00;Executive time;executive_time;Residence;;executive_time;;260
+Trump;15;6;13.12.2018;1899-12-30 20:30:00;30.12.1899 20:45:00;30.12.1899 00:15:00;Remarks at christmas reception;event;Grand foyer;Lindsay Reynolds;christmas_remarks;;261
+Trump;180;6;14.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;262
+Trump;60;6;14.12.2018;1899-12-30 11:00:00;30.12.1899 12:00:00;30.12.1899 01:00:00;Meeting with chief of staff;meeting;Oval office;;cos_meeting;;263
+Trump;30;6;14.12.2018;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;264
+Trump;15;6;14.12.2018;1899-12-30 12:30:00;30.12.1899 12:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;265
+Trump;60;6;14.12.2018;1899-12-30 12:45:00;30.12.1899 13:45:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;266
+Trump;15;6;14.12.2018;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;267
+Trump;15;6;14.12.2018;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Medal of Honor notification phone call;event;Oval office;White House military office;phone_call;;268
+Trump;30;6;14.12.2018;1899-12-30 14:15:00;30.12.1899 14:45:00;30.12.1899 00:30:00;Meeting with legislative affairs;meeting;Oval office;Shahira Knight;leg_affairs_meeting;;269
+Trump;15;6;14.12.2018;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;270
+Trump;30;6;14.12.2018;1899-12-30 15:00:00;30.12.1899 15:30:00;30.12.1899 00:30:00;Policy time;meeting;Oval office;Director Mick Mulvaney;policy_time;;271
+Trump;15;6;14.12.2018;1899-12-30 15:30:00;30.12.1899 15:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;First Lady will attend;272
+Trump;15;6;14.12.2018;1899-12-30 15:45:00;30.12.1899 16:00:00;30.12.1899 00:15:00;Policy time;meeting;Oval office;Peter Navarro;policy_time;;273
+Trump;75;6;14.12.2018;1899-12-30 16:00:00;30.12.1899 17:15:00;30.12.1899 01:15:00;Executive time;executive_time;Oval office;;executive_time;First Lady will attend;274
+Trump;15;6;14.12.2018;1899-12-30 17:15:00;30.12.1899 17:30:00;30.12.1899 00:15:00;Remarks at christmas reception;event;Grand foyer;Lindsay Reynolds;christmas_remarks;;275
+Trump;180;7;17.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;276
+Trump;30;7;17.12.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with legislative affairs;meeting;Oval office;Shahira Knight;leg_affairs_meeting;;277
+Trump;30;7;17.12.2018;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;278
+Trump;30;7;17.12.2018;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;279
+Trump;60;7;17.12.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with vice president;lunch;Private dining room;Nick Ayers;vp_lunch;;280
+Trump;15;7;17.12.2018;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;281
+Trump;30;7;17.12.2018;1899-12-30 13:45:00;30.12.1899 14:15:00;30.12.1899 00:30:00;Meeting with the secretary of the interior;meeting;Oval office;William McGinley;interior_sec_meeting;;282
+Trump;45;7;17.12.2018;1899-12-30 14:15:00;30.12.1899 15:00:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;283
+Trump;30;7;17.12.2018;1899-12-30 15:00:00;30.12.1899 15:30:00;30.12.1899 00:30:00;Policy time;meeting;Oval Office;Christopher Liddell;policy_time;;284
+Trump;15;7;17.12.2018;1899-12-30 15:30:00;30.12.1899 15:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval Office;;executive_time;;285
+Trump;15;7;17.12.2018;1899-12-30 15:45:00;30.12.1899 16:00:00;30.12.1899 00:15:00;Meeting with the press secretary;meeting;Oval Office;Sarah Sanders;press_sec_meeting;;286
+Trump;30;7;17.12.2018;1899-12-30 16:00:00;30.12.1899 16:30:00;30.12.1899 00:30:00;Media engagement;event;Oval Office;Sarah Sanders;media_engagement;;287
+Trump;45;7;17.12.2018;1899-12-30 16:30:00;30.12.1899 17:15:00;30.12.1899 00:45:00;Executive time;executive_time;Oval Office;;executive_time;;288
+Trump;15;7;17.12.2018;1899-12-30 17:15:00;30.12.1899 17:30:00;30.12.1899 00:15:00;Remarks at christmas reception;event;Grand foyer;Lindsay Reynolds;christmas_remarks;;289
+Trump;180;7;17.12.2018;1899-12-30 17:30:00;30.12.1899 20:30:00;30.12.1899 03:00:00;Executive time;executive_time;Residence;;executive_time;;290
+Trump;15;7;17.12.2018;1899-12-30 20:30:00;30.12.1899 20:45:00;30.12.1899 00:15:00;Remarks at staff reception;event;Grand foyer;Lindsay Reynolds;staff_reception_remarks;;291
+Trump;180;7;18.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;292
+Trump;60;7;18.12.2018;1899-12-30 11:00:00;30.12.1899 12:00:00;30.12.1899 01:00:00;Meeting with chief of staff;meeting;Oval office;;cos_meeting;;293
+Trump;30;7;18.12.2018;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Policy time;meeting;Oval office;Director Mick Mulvaney;;;294
+Trump;15;7;18.12.2018;1899-12-30 12:30:00;30.12.1899 12:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;295
+Trump;60;7;18.12.2018;1899-12-30 12:45:00;30.12.1899 13:45:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;296
+Trump;15;7;18.12.2018;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;297
+Trump;15;7;18.12.2018;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Pre-brief;meeting;Oval office;Andrew Bremberg, William McGinley;pre_brief;;298
+Trump;30;7;18.12.2018;1899-12-30 14:15:00;30.12.1899 14:45:00;30.12.1899 00:30:00;Roundtable discussion of the federal commission on school safety report;event;Roosevelt room;Andrew Bremberg, William McGinley;roundtable_discussion;;299
+Trump;30;7;18.12.2018;1899-12-30 14:45:00;30.12.1899 15:15:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;300
+Trump;30;7;18.12.2018;1899-12-30 15:15:00;30.12.1899 15:45:00;30.12.1899 00:30:00;Policy time;meeting;Oval office;Kellyanne Conway;policy_time;;301
+Trump;45;7;18.12.2018;1899-12-30 15:45:00;30.12.1899 16:30:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;First Lady will attend;302
+Trump;15;7;18.12.2018;1899-12-30 16:30:00;30.12.1899 16:45:00;30.12.1899 00:15:00;Photo opportunity with the secretary of the treasury;event;Oval office;William McGinley;photo_opportunity;;303
+Trump;15;7;18.12.2018;1899-12-30 16:45:00;30.12.1899 17:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;First Lady will attend;304
+Trump;180;7;19.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;305
+Trump;60;7;19.12.2018;1899-12-30 11:00:00;30.12.1899 12:00:00;30.12.1899 01:00:00;Meeting with chief of staff;meeting;Oval office;;cos_meeting;;306
+Trump;30;7;19.12.2018;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;307
+Trump;60;7;19.12.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the secretary of state;lunch;Private dining room;William McGinley;sec_state_lunch;;308
+Trump;30;7;19.12.2018;1899-12-30 13:30:00;30.12.1899 14:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;309
+Trump;30;7;19.12.2018;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;310
+Trump;15;7;19.12.2018;1899-12-30 14:30:00;30.12.1899 14:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;311
+Trump;15;7;19.12.2018;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Christmas message video recording;meeting;Diplomatic reception room;Mercedes Schlapp;video_recording_session;;312
+Trump;60;7;19.12.2018;1899-12-30 15:00:00;30.12.1899 16:00:00;30.12.1899 01:00:00;Executive time;executive_time;oval office;;executive_time;;313
+Trump;30;7;19.12.2018;1899-12-30 16:00:00;30.12.1899 16:30:00;30.12.1899 00:30:00;Media engagement;meeting;Roosevelt room;Sarah Sanders;media_engagement;;314
+Trump;45;7;19.12.2018;1899-12-30 16:30:00;30.12.1899 17:15:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;315
+Trump;15;7;19.12.2018;1899-12-30 17:15:00;30.12.1899 17:30:00;30.12.1899 00:15:00;Remarks at christmas reception;event;Grand foyer;Lindsay Reynolds;christmas_remarks;;316
+Trump;120;7;19.12.2018;1899-12-30 17:30:00;30.12.1899 19:30:00;30.12.1899 02:00:00;Executive time;executive_time;Residence;;executive_time;;317
+Trump;60;7;19.12.2018;1899-12-30 19:30:00;30.12.1899 20:30:00;30.12.1899 01:00:00;Photos at residence christmas reception;event;Diplomatic reception room;Lindsay Reynolds;photo_opportunity;;318
+Trump;180;7;20.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;319
+Trump;60;7;20.12.2018;1899-12-30 11:00:00;30.12.1899 12:00:00;30.12.1899 01:00:00;Meeting with chief of staff;meeting;Oval office;;cos_meeting;;320
+Trump;45;7;20.12.2018;1899-12-30 12:00:00;30.12.1899 12:45:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;321
+Trump;60;7;20.12.2018;1899-12-30 12:45:00;30.12.1899 13:45:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;322
+Trump;45;7;20.12.2018;1899-12-30 13:45:00;30.12.1899 14:30:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;323
+Trump;15;7;20.12.2018;1899-12-30 14:30:00;30.12.1899 14:45:00;30.12.1899 00:15:00;Signing ceremony for H.R. 2 - Agriculture improvement act of 2018;event;South Court Auditorium;Shahira Knight, Derek Lyons;bill_signing;;324
+Trump;90;7;20.12.2018;1899-12-30 14:45:00;30.12.1899 16:15:00;30.12.1899 01:30:00;Executive time;executive_time;Oval office;;executive_time;;325
+Trump;30;7;20.12.2018;1899-12-30 16:15:00;30.12.1899 16:45:00;30.12.1899 00:30:00;Signing of H.R. 1918 Nicaragua Human rights and anticorruption act and H.R. 5759 - 21st century idea;event;Oval office;Shahira Knight, Derek Lyons;bill_signing;;326
+Trump;15;7;20.12.2018;1899-12-30 16:45:00;30.12.1899 17:00:00;30.12.1899 00:15:00;Executive time;executive_time;oval office;;executive_time;;327
+Trump;180;7;21.12.2018;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;328
+Trump;30;7;21.12.2018;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Signing ceremony for S. 756 - First step act and H.R. 6964 - Juvenile justice reform act;event;Oval office;Jared Kushner, Derek Lyons;bill_signing;First Lady will attend;329
+Trump;15;7;21.12.2018;1899-12-30 11:30:00;30.12.1899 11:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;330
+Trump;30;7;21.12.2018;1899-12-30 11:45:00;30.12.1899 12:15:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;331
+Trump;15;7;21.12.2018;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;332
+Trump;60;7;21.12.2018;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;333
+Trump;30;7;21.12.2018;1899-12-30 13:30:00;30.12.1899 14:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;334
+Trump;15;7;21.12.2018;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Signing ceremony for H.R. 7213 - The countering weapons of mass destruction act;event;Oval office;William McGinley, Derek Lyons;bill_signing;;335
+Trump;180;9;02.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;343
+Trump;30;9;02.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with chief of staff;meeting;Oval office;;cos_meeting;;344
+Trump;30;9;02.01.2019;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;345
+Trump;60;9;02.01.2019;1899-12-30 12:00:00;30.12.1899 13:00:00;30.12.1899 01:00:00;Cabinet meeting;meeting;Cabinet room;William McGinley;cabinet_meeting;;346
+Trump;60;9;02.01.2019;1899-12-30 13:00:00;30.12.1899 14:00:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;347
+Trump;15;9;02.01.2019;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;348
+Trump;30;9;02.01.2019;1899-12-30 14:15:00;30.12.1899 14:45:00;30.12.1899 00:30:00;Pre-brief;meeting;Oval office;William McGinley;pre_brief;;349
+Trump;15;9;02.01.2019;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;350
+Trump;60;9;02.01.2019;1899-12-30 15:00:00;30.12.1899 16:00:00;30.12.1899 01:00:00;Border security briefing for congressional leadership;meeting;White House situation room;Shahira Knight;border_security_briefing;;351
+Trump;60;9;02.01.2019;1899-12-30 16:00:00;30.12.1899 17:00:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;352
+Trump;180;9;03.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;353
+Trump;30;9;03.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with chief of staff;meeting;Oval office;;cos_meeting;;354
+Trump;60;9;03.01.2019;1899-12-30 11:30:00;30.12.1899 12:30:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;355
+Trump;60;9;03.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;356
+Trump;210;9;03.01.2019;1899-12-30 13:30:00;30.12.1899 17:00:00;30.12.1899 03:30:00;Executive time;executive_time;Oval office;;executive_time;;357
+Trump;180;9;04.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;358
+Trump;30;9;04.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Pre-brief;meeting;Oval office;Shahira Knight;pre_brief;;359
+Trump;60;9;04.01.2019;1899-12-30 11:30:00;30.12.1899 12:30:00;30.12.1899 01:00:00;Meeting with congressional leadership;meeting;White House situation room;Shahira Knight;congressional_leadership_meeting;;360
+Trump;60;9;04.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;361
+Trump;30;9;04.01.2019;1899-12-30 13:30:00;30.12.1899 14:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;362
+Trump;30;9;04.01.2019;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;363
+Trump;30;9;04.01.2019;1899-12-30 14:30:00;30.12.1899 15:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;364
+Trump;30;9;04.01.2019;1899-12-30 15:00:00;30.12.1899 15:30:00;30.12.1899 00:30:00;Meeting with the press secretary;meeting;Oval office;William McGinley;press_sec_meeting;;365
+Trump;90;9;04.01.2019;1899-12-30 15:30:00;30.12.1899 17:00:00;30.12.1899 01:30:00;Executive time;executive_time;Oval office;;executive_time;;366
+Trump;225;10;07.01.2019;1899-12-30 08:00:00;30.12.1899 11:45:00;30.12.1899 03:45:00;Executive time;executive_time;Oval office;;executive_time;;367
+Trump;30;10;07.01.2019;1899-12-30 11:45:00;30.12.1899 12:15:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;368
+Trump;15;10;07.01.2019;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;369
+Trump;60;10;07.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the vice president;lunch;Private dining room;Office of scheduling;vp_lunch;;370
+Trump;30;10;07.01.2019;1899-12-30 13:30:00;30.12.1899 14:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;371
+Trump;30;10;07.01.2019;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;372
+Trump;150;10;07.01.2019;1899-12-30 14:30:00;30.12.1899 17:00:00;30.12.1899 02:30:00;Executive time;executive_time;Oval office;;executive_time;;373
+Trump;210;10;08.01.2019;1899-12-30 08:00:00;30.12.1899 11:30:00;30.12.1899 03:30:00;Executive time;executive_time;Oval office;;executive_time;;374
+Trump;30;10;08.01.2019;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;375
+Trump;15;10;08.01.2019;1899-12-30 12:00:00;30.12.1899 12:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;376
+Trump;60;10;08.01.2019;1899-12-30 12:15:00;30.12.1899 13:15:00;30.12.1899 01:00:00;Media lunch;event;Roosevelt room;Sarah Sanders;media_lunch;;377
+Trump;30;10;08.01.2019;1899-12-30 13:15:00;30.12.1899 13:45:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;378
+Trump;60;10;08.01.2019;1899-12-30 13:45:00;30.12.1899 14:45:00;30.12.1899 01:00:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;379
+Trump;375;10;08.01.2019;1899-12-30 14:45:00;30.12.1899 21:00:00;30.12.1899 06:15:00;Executive time;executive_time;Oval office;;executive_time;;380
+Trump;45;10;08.01.2019;1899-12-30 21:00:00;30.12.1899 21:45:00;30.12.1899 00:45:00;Address to the nation;event;Oval office;Bill Shine;national_address;;381
+Trump;180;10;09.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;382
+Trump;30;10;09.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;383
+Trump;15;10;09.01.2019;1899-12-30 11:30:00;30.12.1899 11:45:00;30.12.1899 00:15:00;Signing ceremony for anti-human trafficking legislation;event;Oval office;Shahira Knight, Derek Lyons;bill_signing;;384
+Trump;15;10;09.01.2019;1899-12-30 11:45:00;30.12.1899 12:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;385
+Trump;30;10;09.01.2019;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;386
+Trump;15;10;09.01.2019;1899-12-30 12:30:00;30.12.1899 12:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;387
+Trump;10;10;09.01.2019;1899-12-30 12:45:00;30.12.1899 12:55:00;30.12.1899 00:10:00;Depart the white house en route US capitol;travel;;;domestic_travel;;388
+Trump;60;10;09.01.2019;1899-12-30 13:00:00;30.12.1899 14:00:00;30.12.1899 01:00:00;Senate Republican policy lunch;lunch;Washington, DC;Shahira Knight;senate_GOP_lunch;;389
+Trump;10;10;09.01.2019;1899-12-30 14:05:00;30.12.1899 14:15:00;30.12.1899 00:10:00;Depart US Capitol en route the white house;travel;;;domestic_travel;;390
+Trump;10;10;09.01.2019;1899-12-30 14:20:00;30.12.1899 14:30:00;30.12.1899 00:10:00;Executive time;executive_time;Oval Office;;executive_time;;391
+Trump;30;10;09.01.2019;1899-12-30 14:30:00;30.12.1899 15:00:00;30.12.1899 00:30:00;Pre-brief;meeting;Oval Office;Shahira Knight;pre_brief;;392
+Trump;60;10;09.01.2019;1899-12-30 15:00:00;30.12.1899 16:00:00;30.12.1899 01:00:00;Meeting with congressional leadership;meeting;White House situation room;Shahira Knight;congressional_leadership_meeting;;393
+Trump;60;10;09.01.2019;1899-12-30 16:00:00;30.12.1899 17:00:00;30.12.1899 01:00:00;Executive time;executive_time;Oval Office;;executive_time;;394
+Trump;75;10;10.01.2019;1899-12-30 08:00:00;30.12.1899 09:15:00;30.12.1899 01:15:00;Executive time;executive_time;Oval Office;;executive_time;;395
+Trump;10;10;10.01.2019;1899-12-30 09:15:00;30.12.1899 09:25:00;30.12.1899 00:10:00;Depart the white house en route Joint Base Andrews;travel;;;domestic_travel;;396
+Trump;250;10;10.01.2019;1899-12-30 09:35:00;30.12.1899 13:45:00;30.12.1899 04:10:00;Depart Washington, DC en route McAllen, TX;travel;;;domestic_travel;;397
+Trump;10;10;10.01.2019;1899-12-30 13:55:00;30.12.1899 14:05:00;30.12.1899 00:10:00;Depart McAllen International Airport en route US Border Patrol McAllen Station;travel;;;domestic_travel;;398
+Trump;50;10;10.01.2019;1899-12-30 14:10:00;30.12.1899 15:00:00;30.12.1899 00:50:00;Roundtable on immigration and border security;meeting;McAllen, TX;;immigration_roundtable;;399
+Trump;5;10;10.01.2019;1899-12-30 15:05:00;30.12.1899 15:10:00;30.12.1899 00:05:00;Photo opportunity with law enforcement;event;McAllen, TX;;photo_opportunity;;400
+Trump;15;10;10.01.2019;1899-12-30 15:15:00;30.12.1899 15:30:00;30.12.1899 00:15:00;Depart US Border Patrol McAllen Station en route Rio Grande;travel;;;domestic_travel;;401
+Trump;10;10;10.01.2019;1899-12-30 15:35:00;30.12.1899 15:45:00;30.12.1899 00:10:00;Briefing on border security;event;McAllen, TX;;border_security_briefing;;402
+Trump;5;10;10.01.2019;1899-12-30 15:55:00;30.12.1899 16:00:00;30.12.1899 00:05:00;Hold for media interview;event;McAllen, TX;;media_interview;;403
+Trump;25;10;10.01.2019;1899-12-30 16:05:00;30.12.1899 16:30:00;30.12.1899 00:25:00;Depart Rio Grande en route McAllen International Airport;travel;;;domestic_travel;;404
+Trump;185;10;10.01.2019;1899-12-30 16:40:00;30.12.1899 19:45:00;30.12.1899 03:05:00;Depart McAllen, TX en route Washington, DC;travel;;;domestic_travel;;405
+Trump;10;10;10.01.2019;1899-12-30 19:55:00;30.12.1899 20:05:00;30.12.1899 00:10:00;Depart Joint Base Andrews en route the white house;travel;;;domestic_travel;;406
+Trump;180;10;11.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;407
+Trump;30;10;11.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with chief of staff;meeting;Oval office;;cos_meeting;;408
+Trump;30;10;11.01.2019;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;409
+Trump;20;10;11.01.2019;1899-12-30 12:00:00;30.12.1899 12:20:00;30.12.1899 00:20:00;Credentialing ceremony for newly appointed ambassadors to Washington, DC;event;Oval office;;credentialing_ceremony;;410
+Trump;25;10;11.01.2019;1899-12-30 12:20:00;30.12.1899 12:45:00;30.12.1899 00:25:00;Executive time;executive_time;Oval office;;executive_time;;411
+Trump;60;10;11.01.2019;1899-12-30 12:45:00;30.12.1899 13:45:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;412
+Trump;15;10;11.01.2019;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;413
+Trump;15;10;11.01.2019;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Departure ceremony for lieutenant colonel rick turner;event;Oval office;White House military office;departure_ceremony;;414
+Trump;15;10;11.01.2019;1899-12-30 14:15:00;30.12.1899 14:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;415
+Trump;45;10;11.01.2019;1899-12-30 14:30:00;30.12.1899 15:15:00;30.12.1899 00:45:00;Border security and safe communities roundtable discussion with state, local, and community leaders;event;Cabinet Room;John DeStefano;border_security_roundtable;;416
+Trump;45;10;11.01.2019;1899-12-30 15:15:00;30.12.1899 16:00:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;417
+Trump;30;10;11.01.2019;1899-12-30 16:00:00;30.12.1899 16:30:00;30.12.1899 00:30:00;Meeting with presidential personnel;meeting;Oval office;John DeStefano;personnel_meeting;;418
+Trump;30;10;11.01.2019;1899-12-30 16:30:00;30.12.1899 17:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;419
+Trump;60;11;14.01.2019;1899-12-30 08:00:00;30.12.1899 09:00:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;420
+Trump;10;11;14.01.2019;1899-12-30 09:00:00;30.12.1899 09:10:00;30.12.1899 00:10:00;Depart the white house en route joint Base Andrews;travel;;;domestic_travel;;421
+Trump;155;11;14.01.2019;1899-12-30 09:20:00;30.12.1899 11:55:00;30.12.1899 02:35:00;Depart Washington, DC en route Kenner, LA;travel;;;domestic_travel;;422
+Trump;20;11;14.01.2019;1899-12-30 12:05:00;30.12.1899 12:25:00;30.12.1899 00:20:00;Depart Kenner, LA en route New Orleans, LA;travel;;;domestic_travel;Air Force One is a C-32;423
+Trump;5;11;14.01.2019;1899-12-30 12:30:00;30.12.1899 12:35:00;30.12.1899 00:05:00;Photo opportunity with members of the American Farm Bureau Federation;event;New Orleans, LA;Tim Pataki;photo_opportunity;;424
+Trump;30;11;14.01.2019;1899-12-30 12:40:00;30.12.1899 13:10:00;30.12.1899 00:30:00;Remarks at American Farm Bureau Federation's 100th Annual convention;event;New Orleans, LA;Tim Pataki;farm_bureau_remarks;;425
+Trump;5;11;14.01.2019;1899-12-30 13:15:00;30.12.1899 13:20:00;30.12.1899 00:05:00;Photo opportunity with law enforcement;event;New Orleans, LA;Bobby Peede;photo_opportunity;;426
+Trump;20;11;14.01.2019;1899-12-30 13:25:00;30.12.1899 13:45:00;30.12.1899 00:20:00;Depart New Orleans, LA en route Kenner, LA;travel;;;domestic_travel;;427
+Trump;130;11;14.01.2019;1899-12-30 13:55:00;30.12.1899 16:05:00;30.12.1899 02:10:00;Depart New Oreans, LA en route Washington, DC;travel;;;domestic_travel;;428
+Trump;10;11;14.01.2019;1899-12-30 16:15:00;30.12.1899 16:25:00;30.12.1899 00:10:00;Depart Joint Base Andrews en route the white house;travel;;;domestic_travel;;429
+Trump;90;11;14.01.2019;1899-12-30 16:30:00;30.12.1899 18:00:00;30.12.1899 01:30:00;Executive time;executive_time;Oval office;;executive_time;;430
+Trump;15;11;14.01.2019;1899-12-30 18:00:00;30.12.1899 18:15:00;30.12.1899 00:15:00;Photo opportunity wtih the 2018 NCAA football national champions: the clemson tigers;event;Oval office;Tim Pataki;photo_opportunity;;431
+Trump;15;11;14.01.2019;1899-12-30 18:15:00;30.12.1899 18:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;432
+Trump;30;11;14.01.2019;1899-12-30 18:30:00;30.12.1899 19:00:00;30.12.1899 00:30:00;Visit of the 2018 NCAA football national champtions: the clemson tigers;event;East Room;Tim Pataki;football_team_visit;;433
+Trump;180;11;15.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;434
+Trump;30;11;15.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;435
+Trump;30;11;15.01.2019;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;436
+Trump;30;11;15.01.2019;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;437
+Trump;60;11;15.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with members of congress;lunch;Roosevelt room;Shahira Knight;congressional_lunch;;438
+Trump;15;11;15.01.2019;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;439
+Trump;30;11;15.01.2019;1899-12-30 13:45:00;30.12.1899 14:15:00;30.12.1899 00:30:00;Meeting with presidential personnel;meeting;Oval office;John DeStefano;personnel_meeting;;440
+Trump;15;11;15.01.2019;1899-12-30 14:15:00;30.12.1899 14:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;441
+Trump;15;11;15.01.2019;1899-12-30 14:30:00;30.12.1899 14:45:00;30.12.1899 00:15:00;Briefing call on the border crisis with state, local, and community leaders;meeting;Oval office;John DeStefano;border_crisis_briefing_call;;442
+Trump;15;11;15.01.2019;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;443
+Trump;45;11;15.01.2019;1899-12-30 15:00:00;30.12.1899 15:45:00;30.12.1899 00:45:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;444
+Trump;45;11;15.01.2019;1899-12-30 15:45:00;30.12.1899 16:30:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;445
+Trump;15;11;15.01.2019;1899-12-30 16:30:00;30.12.1899 16:45:00;30.12.1899 00:15:00;Video recording session;meeting;Cabinet Room;Mercedes Schlapp;video_recording_session;;446
+Trump;15;11;15.01.2019;1899-12-30 16:45:00;30.12.1899 17:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;447
+Trump;165;11;16.01.2019;1899-12-30 08:00:00;30.12.1899 10:45:00;30.12.1899 02:45:00;Executive time;executive_time;Oval office;;executive_time;;448
+Trump;45;11;16.01.2019;1899-12-30 10:45:00;30.12.1899 11:30:00;30.12.1899 00:45:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;449
+Trump;60;11;16.01.2019;1899-12-30 11:30:00;30.12.1899 12:30:00;30.12.1899 01:00:00;Meeting with the problem solvers caucus;meeting;White House situation room;Shahira Knight;problem_solvers_meeting;;450
+Trump;30;11;16.01.2019;1899-12-30 12:30:00;30.12.1899 13:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;451
+Trump;60;11;16.01.2019;1899-12-30 13:00:00;30.12.1899 14:00:00;30.12.1899 01:00:00;Lunch with the secretary of state;lunch;Private dining room;William McGinley;sec_state_lunch;;452
+Trump;15;11;16.01.2019;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;453
+Trump;15;11;16.01.2019;1899-12-30 14:15:00;30.12.1899 14:30:00;30.12.1899 00:15:00;Signing ceremony for S.24, the government employee fair treatment act of 2019;event;Oval office;Shahira Knight, Derek Lyons;bill_signing;;454
+Trump;15;11;16.01.2019;1899-12-30 14:30:00;30.12.1899 14:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;455
+Trump;60;11;16.01.2019;1899-12-30 14:45:00;30.12.1899 15:45:00;30.12.1899 01:00:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;456
+Trump;75;11;16.01.2019;1899-12-30 15:45:00;30.12.1899 17:00:00;30.12.1899 01:15:00;Executive time;executive_time;Oval office;;executive_time;;457
+Trump;15;11;16.01.2019;1899-12-30 17:00:00;30.12.1899 17:15:00;30.12.1899 00:15:00;Video recording session;meeting;Cabinet Room;Mercedes Schlapp;video_recording_session;;458
+Trump;165;11;17.01.2019;1899-12-30 08:00:00;30.12.1899 10:45:00;30.12.1899 02:45:00;Executive time;executive_time;Oval office;;executive_time;;459
+Trump;10;11;17.01.2019;1899-12-30 10:45:00;30.12.1899 10:55:00;30.12.1899 00:10:00;Depart Washington, DC en route Arlington, VA;travel;;;domestic_travel;;460
+Trump;30;11;17.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;The missile defense review announcement;event;The Pentagon;Ambassador John Bolton;missile_defense_announcement;;461
+Trump;10;11;17.01.2019;1899-12-30 11:35:00;30.12.1899 11:45:00;30.12.1899 00:10:00;Depart Arlington, VA en route Washington, DC;travel;;;domestic_travel;;462
+Trump;40;11;17.01.2019;1899-12-30 11:50:00;30.12.1899 12:30:00;30.12.1899 00:40:00;Executive time;executive_time;Oval office;;executive_time;;463
+Trump;60;11;17.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;464
+Trump;15;11;17.01.2019;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;465
+Trump;30;11;17.01.2019;1899-12-30 13:45:00;30.12.1899 14:15:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;466
+Trump;30;11;17.01.2019;1899-12-30 14:15:00;30.12.1899 14:45:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;467
+Trump;15;11;17.01.2019;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Policy time;meeting;Oval office;Acting director Russ Vought;policy_time;;468
+Trump;30;11;17.01.2019;1899-12-30 15:00:00;30.12.1899 15:30:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;469
+Trump;30;11;17.01.2019;1899-12-30 15:30:00;30.12.1899 16:00:00;30.12.1899 00:30:00;Media engagement;event;Oval office;Sarah Sanders;media_engagement;;470
+Trump;60;11;17.01.2019;1899-12-30 16:00:00;30.12.1899 17:00:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;471
+Trump;225;11;18.01.2019;1899-12-30 08:00:00;30.12.1899 11:45:00;30.12.1899 03:45:00;Executive time;executive_time;Oval office;;executive_time;;472
+Trump;30;11;18.01.2019;1899-12-30 11:45:00;30.12.1899 12:15:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;473
+Trump;30;11;18.01.2019;1899-12-30 12:15:00;30.12.1899 12:45:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;474
+Trump;30;11;18.01.2019;1899-12-30 12:45:00;30.12.1899 13:15:00;30.12.1899 00:30:00;Meeting with the secretary of the treasury;meeting;Oval office;William McGinley;sec_treasury_meeting;;475
+Trump;60;11;18.01.2019;1899-12-30 13:15:00;30.12.1899 14:15:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;476
+Trump;165;11;18.01.2019;1899-12-30 14:15:00;30.12.1899 17:00:00;30.12.1899 02:45:00;Executive time;executive_time;Oval office;;executive_time;;477
+Trump;540;12;21.01.2019;1899-12-30 08:00:00;30.12.1899 17:00:00;30.12.1899 09:00:00;Executive time;executive_time;;;executive_time;;478
+Trump;180;12;22.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;479
+Trump;30;12;22.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;480
+Trump;30;12;22.01.2019;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;481
+Trump;30;12;22.01.2019;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;policy_time;;482
+Trump;60;12;22.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the vice president;lunch;Private dining room;Office of scheduling;vp_lunch;;483
+Trump;15;12;22.01.2019;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;484
+Trump;15;12;22.01.2019;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;Meeting with the press secretary;meeting;Oval office;Sarah Sanders;press_sec_meeting;;485
+Trump;15;12;22.01.2019;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;486
+Trump;45;12;22.01.2019;1899-12-30 14:15:00;30.12.1899 15:00:00;30.12.1899 00:45:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;487
+Trump;120;12;22.01.2019;1899-12-30 15:00:00;30.12.1899 17:00:00;30.12.1899 02:00:00;Executive time;executive_time;Oval office;;executive_time;;488
+Trump;150;12;23.01.2019;1899-12-30 08:00:00;30.12.1899 10:30:00;30.12.1899 02:30:00;Executive time;executive_time;Oval office;;executive_time;;489
+Trump;15;12;23.01.2019;1899-12-30 10:30:00;30.12.1899 10:45:00;30.12.1899 00:15:00;Briefing call on the president's immigration proposal with state, local, and community leaders;meeting;Oval office;Tim Pataki;immigration_briefing_call;;490
+Trump;15;12;23.01.2019;1899-12-30 10:45:00;30.12.1899 11:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;491
+Trump;30;12;23.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;492
+Trump;60;12;23.01.2019;1899-12-30 11:30:00;30.12.1899 12:30:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;493
+Trump;60;12;23.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;494
+Trump;30;12;23.01.2019;1899-12-30 13:30:00;30.12.1899 14:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;495
+Trump;30;12;23.01.2019;1899-12-30 14:00:00;30.12.1899 14:30:00;30.12.1899 00:30:00;Fair and honest pricing in healthcare roundtable;meeting;Roosevelt Room;Kellyanne Conway;healthcare_roundtable;;496
+Trump;30;12;23.01.2019;1899-12-30 14:30:00;30.12.1899 15:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;497
+Trump;45;12;23.01.2019;1899-12-30 15:00:00;30.12.1899 15:45:00;30.12.1899 00:45:00;Meeting with conservative leaders on the president's immigration proposal;meeting;Roosevelt Room;Jared Kushner;immigration_meeting;;498
+Trump;75;12;23.01.2019;1899-12-30 15:45:00;30.12.1899 17:00:00;30.12.1899 01:15:00;Executive time;executive_time;Oval office;;executive_time;;499
+Trump;180;12;24.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;500
+Trump;30;12;24.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;501
+Trump;15;12;24.01.2019;1899-12-30 11:30:00;30.12.1899 11:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;502
+Trump;15;12;24.01.2019;1899-12-30 11:45:00;30.12.1899 12:00:00;30.12.1899 00:15:00;Video recording session;meeting;Oval office;Mercedes Schlapp;video_recording_session;;503
+Trump;30;12;24.01.2019;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;504
+Trump;60;12;24.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;505
+Trump;135;12;24.01.2019;1899-12-30 13:30:00;30.12.1899 15:45:00;30.12.1899 02:15:00;Executive time;executive_time;Oval office;;executive_time;;506
+Trump;30;12;24.01.2019;1899-12-30 15:45:00;30.12.1899 16:15:00;30.12.1899 00:30:00;Meeting with legislative affairs;meeting;Oval office;Shahira Knight;leg_affairs_meeting;;507
+Trump;45;12;24.01.2019;1899-12-30 16:15:00;30.12.1899 17:00:00;30.12.1899 00:45:00;Executive time;executive_time;Oval office;;executive_time;;508
+Trump;180;12;25.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;509
+Trump;30;12;25.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;510
+Trump;30;12;25.01.2019;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;511
+Trump;30;12;25.01.2019;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;policy_time;;512
+Trump;60;12;25.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the secretary of state;lunch;Private dining room;William McGinley;sec_state_lunch;;513
+Trump;15;12;25.01.2019;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;514
+Trump;30;12;25.01.2019;1899-12-30 13:45:00;30.12.1899 14:15:00;30.12.1899 00:30:00;Discussion on economic growth with our nation's mayors;meeting;Cabinet Room;John DeStefano, Doug Hoelscher;econ_discussion_mayors;;515
+Trump;30;12;25.01.2019;1899-12-30 14:15:00;30.12.1899 14:45:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;516
+Trump;30;12;25.01.2019;1899-12-30 14:45:00;30.12.1899 15:15:00;30.12.1899 00:30:00;Roundtable with hispanic pastors;event;Roosevelt Room;Tim Pataki;hispanic_pastors_roundtable;;517
+Trump;105;12;25.01.2019;1899-12-30 15:15:00;30.12.1899 17:00:00;30.12.1899 01:45:00;Executive time;executive_time;Oval office;;executive_time;;518
+Trump;180;13;28.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;519
+Trump;30;13;28.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;520
+Trump;60;13;28.01.2019;1899-12-30 11:30:00;30.12.1899 12:30:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;521
+Trump;60;13;28.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the vice president;lunch;Private dining room;Office of Scheduling;vp_lunch;;522
+Trump;165;13;28.01.2019;1899-12-30 13:30:00;30.12.1899 16:15:00;30.12.1899 02:45:00;Executive time;executive_time;Oval office;;executive_time;;523
+Trump;15;13;28.01.2019;1899-12-30 16:15:00;30.12.1899 16:30:00;30.12.1899 00:15:00;Meeting with the press secretary;meeting;Oval office;Sarah Sanders;press_sec_meeting;;524
+Trump;30;13;28.01.2019;1899-12-30 16:30:00;30.12.1899 17:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;525
+Trump;195;13;29.01.2019;1899-12-30 08:00:00;30.12.1899 11:15:00;30.12.1899 03:15:00;Executive time;executive_time;Oval office;;executive_time;;526
+Trump;30;13;29.01.2019;1899-12-30 11:15:00;30.12.1899 11:45:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;527
+Trump;15;13;29.01.2019;1899-12-30 11:45:00;30.12.1899 12:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;528
+Trump;15;13;29.01.2019;1899-12-30 12:00:00;30.12.1899 12:15:00;30.12.1899 00:15:00;Video recording session;meeting;Oval office;Mercedes Schlapp;video_recording_session;;529
+Trump;15;13;29.01.2019;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;530
+Trump;60;13;29.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;531
+Trump;45;13;29.01.2019;1899-12-30 13:30:00;30.12.1899 14:15:00;30.12.1899 00:45:00;Policy time;meeting;Oval office;Christopher Liddell;policy_time;;532
+Trump;30;13;29.01.2019;1899-12-30 14:15:00;30.12.1899 14:45:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;533
+Trump;30;13;29.01.2019;1899-12-30 14:45:00;30.12.1899 15:15:00;30.12.1899 00:30:00;Meeting with legislative affairs;meeting;Oval office;Shahira Knight;leg_affairs_meeting;;534
+Trump;105;13;29.01.2019;1899-12-30 15:15:00;30.12.1899 17:00:00;30.12.1899 01:45:00;Executive time;executive_time;Oval office;;executive_time;;535
+Trump;180;13;30.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;536
+Trump;30;13;30.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;537
+Trump;30;13;30.01.2019;1899-12-30 11:30:00;30.12.1899 12:00:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;538
+Trump;30;13;30.01.2019;1899-12-30 12:00:00;30.12.1899 12:30:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;539
+Trump;60;13;30.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;The White House;;solo_lunch;;540
+Trump;15;13;30.01.2019;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;541
+Trump;15;13;30.01.2019;1899-12-30 13:45:00;30.12.1899 14:00:00;30.12.1899 00:15:00;White House military office departure photos;event;Oval office;White House military office;departure_photos;;542
+Trump;15;13;30.01.2019;1899-12-30 14:00:00;30.12.1899 14:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;543
+Trump;45;13;30.01.2019;1899-12-30 14:15:00;30.12.1899 15:00:00;30.12.1899 00:45:00;Policy time;meeting;White House situation room;Christopher Liddell;policy_time;;544
+Trump;60;13;30.01.2019;1899-12-30 15:00:00;30.12.1899 16:00:00;30.12.1899 01:00:00;Executive time;executive_time;Oval office;;executive_time;;545
+Trump;15;13;30.01.2019;1899-12-30 16:00:00;30.12.1899 16:15:00;30.12.1899 00:15:00;Meeting with presidential personnel;meeting;Oval office;John DeStefano;personnel_meeting;;546
+Trump;15;13;30.01.2019;1899-12-30 16:15:00;30.12.1899 16:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;547
+Trump;30;13;30.01.2019;1899-12-30 16:30:00;30.12.1899 17:00:00;30.12.1899 00:30:00;Media engagement;event;Oval office;Sarah Sanders;media_engagement;;548
+Trump;180;13;31.01.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;549
+Trump;30;13;31.01.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;550
+Trump;15;13;31.01.2019;1899-12-30 11:30:00;30.12.1899 11:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;551
+Trump;15;13;31.01.2019;1899-12-30 11:45:00;30.12.1899 12:00:00;30.12.1899 00:15:00;Meeting with American manufacturers and signing of an executive order to strengthen buy American preferences;event;Oval office;Peter Navarro, Derek Lyons;meeting_exec_order_signing;;552
+Trump;15;13;31.01.2019;1899-12-30 12:00:00;30.12.1899 12:15:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;553
+Trump;15;13;31.01.2019;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;Video recording session;meeting;Oval office;Mercedes Schlapp;video_recording_session;;554
+Trump;60;13;31.01.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch;lunch;Private dining room;;solo_lunch;;555
+Trump;15;13;31.01.2019;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Meeting with the White House staff secretary;meeting;Oval office;Derek Lyons;wh_staff_sec_meeting;;556
+Trump;30;13;31.01.2019;1899-12-30 13:45:00;30.12.1899 14:15:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;557
+Trump;30;13;31.01.2019;1899-12-30 14:15:00;30.12.1899 14:45:00;30.12.1899 00:30:00;Intelligence briefing;meeting;Oval office;Ambassador John Bolton;intel_briefing;;558
+Trump;15;13;31.01.2019;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Executive time;meeting;Oval office;;executive_time;;559
+Trump;30;13;31.01.2019;1899-12-30 15:00:00;30.12.1899 15:30:00;30.12.1899 00:30:00;Pre-brief;meeting;Oval office;Larry Kudlow;pre_brief;;560
+Trump;30;13;31.01.2019;1899-12-30 15:30:00;30.12.1899 16:00:00;30.12.1899 00:30:00;Meeting with the vice premier of the people's republican of China;meeting;Oval office;Larry Kudlow;china_meeting;;561
+Trump;30;13;31.01.2019;1899-12-30 16:00:00;30.12.1899 16:30:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;562
+Trump;30;13;31.01.2019;1899-12-30 16:30:00;30.12.1899 17:00:00;30.12.1899 00:30:00;Media engagement;event;Oval office;Sarah Sanders;media_engagement;;563
+Trump;180;13;01.02.2019;1899-12-30 08:00:00;30.12.1899 11:00:00;30.12.1899 03:00:00;Executive time;executive_time;Oval office;;executive_time;;564
+Trump;30;13;01.02.2019;1899-12-30 11:00:00;30.12.1899 11:30:00;30.12.1899 00:30:00;Meeting with the chief of staff;meeting;Oval office;;cos_meeting;;565
+Trump;15;13;01.02.2019;1899-12-30 11:30:00;30.12.1899 11:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;566
+Trump;30;13;01.02.2019;1899-12-30 11:45:00;30.12.1899 12:15:00;30.12.1899 00:30:00;Fighting human trafficking on the southern border;meeting;Cabinet Room;Mercedes Schlapp;border_meeting;;567
+Trump;15;13;01.02.2019;1899-12-30 12:15:00;30.12.1899 12:30:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;568
+Trump;60;13;01.02.2019;1899-12-30 12:30:00;30.12.1899 13:30:00;30.12.1899 01:00:00;Lunch with the secretary of state;lunch;Private Dining room;William McGinley;sec_state_lunch;;569
+Trump;15;13;01.02.2019;1899-12-30 13:30:00;30.12.1899 13:45:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;570
+Trump;60;13;01.02.2019;1899-12-30 13:45:00;30.12.1899 14:45:00;30.12.1899 01:00:00;Pre-brief;meeting;Oval office;Sarah Sanders;pre_brief;;571
+Trump;15;13;01.02.2019;1899-12-30 14:45:00;30.12.1899 15:00:00;30.12.1899 00:15:00;Executive time;executive_time;Oval office;;executive_time;;572
+Trump;30;13;01.02.2019;1899-12-30 15:00:00;30.12.1899 15:30:00;30.12.1899 00:30:00;Media engagement;event;Diplomatic Room;Sarah Sanders;media_engagement;;573
+Trump;30;13;01.02.2019;1899-12-30 15:30:00;30.12.1899 16:00:00;30.12.1899 00:30:00;Executive time;executive_time;Oval office;;executive_time;;574
+Trump;10;13;01.02.2019;1899-12-30 16:00:00;30.12.1899 16:10:00;30.12.1899 00:10:00;Depart the White House en route Joint Base Andrews;travel;;;domestic_travel;The First Lady will travel;575
+Trump;135;13;01.02.2019;1899-12-30 16:20:00;30.12.1899 18:35:00;30.12.1899 02:15:00;Depart Washington, DC en route Palm Beach, FL;travel;;;domestic_travel;;576
+Trump;10;13;01.02.2019;1899-12-30 18:45:00;30.12.1899 18:55:00;30.12.1899 00:10:00;Depart Palm Beach International Airport en route Mar-a-Lago;travel;;;domestic_travel;;577
